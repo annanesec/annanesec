@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @annanesec
 - 👀 I’m interested in CyberSecurity and Coding
-- 🌱 I’m currently learning Full Stack Software Engineer
+- 🌱 I’m currently learning Full Stack Software Engineer at ALX
 
 
 <!---
